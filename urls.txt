@@ -1,0 +1,11 @@
+# ========================================================
+# DANH SÁCH CÁC BÀI TEST CẦN TỰ ĐỘNG LÀM (Mỗi dòng 1 link)
+# Dòng bắt đầu bằng dấu # hoặc để trống sẽ được bỏ qua
+# ========================================================
+
+https://lms.uniapp.vn/elearning/student/test/145?m=658&c=90
+#https://lms.uniapp.vn/elearning/student/test/174?m=699&c=92
+#https://lms.uniapp.vn/elearning/student/test/173?m=699&c=92
+#https://lms.uniapp.vn/elearning/student/test/172?m=699&c=92
+#https://lms.uniapp.vn/elearning/student/test/171?m=699&c=92
+#https://lms.uniapp.vn/elearning/student/test/169?m=699&c=92
